@@ -13,11 +13,19 @@ namespace GlobalLanguageDemo
 {
     public partial class MainPage : PhoneApplicationPage
     {
-        // Constructor
         public MainPage()
         {
             InitializeComponent();
+            this.Loaded += MainPage_Loaded;
         }
 
+        void MainPage_Loaded(object sender, RoutedEventArgs e)
+        {            
+        }
+
+        private void LanguageChanged_LP_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
-}
+} 
