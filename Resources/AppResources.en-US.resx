@@ -117,21 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="PhoneDevelopment_ProjectContent" xml:space="preserve">
-    <value>搜索所有meta数据文档</value>
-    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
-  </data>
-  <data name="ResourceLanguage" xml:space="preserve">
-    <value>zh-CN</value>
-    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
-  </data>
   <data name="PhoneDevelopment_Content" xml:space="preserve">
-    <value>重新命名项目为camper</value>
+    <value>rename project to _camper</value>
   </data>
-  <data name="PhoneDevelopment_Title" xml:space="preserve">
-    <value>手机开发语言</value>
+  <data name="PhoneDevelopment_ProjectContent" xml:space="preserve">
+    <value>collection all meta document</value>
   </data>
   <data name="PhoneDevelopment_ProjectName" xml:space="preserve">
-    <value>针对Google 搜索优化meta数据</value>
+    <value>Meta Data For Google Search</value>
+  </data>
+  <data name="PhoneDevelopment_Title" xml:space="preserve">
+    <value>Phone Development Language</value>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>en-US</value>
   </data>
 </root>
